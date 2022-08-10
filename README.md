@@ -13,9 +13,12 @@ This is a research project, and can continue as long as you're willing to work.
 **Prerequisite** - Deep learning, basic machine learning concepts  
 Understanding of Chaos theory is not required but you will have to learn basic concepts while working.  
 **Skills** - Python
+
 Basic knowledge about PyTorch
 **Goal** - Improve the performance of custom LSTM using chaotic initializations.
+
 **Current Status** - The custom LSTM architecture is completed and has been tested for blood glucose prediction.
+
 **Expectations** - Create a stock price dataset and modify the current LSTM to work on this new data. Also implement chaotic initialization in the LSTM architeccture.
 
 ## Mentors
